@@ -15,7 +15,7 @@ Este repositório contém os notebooks dos laboratórios avaliativos da [Especia
 
 ### Certificado da Especialização
 
-![Certifcado](/certificado especialização.png)
+![Certifcado](certificado%20especialização.png/)
 
 <br/>
 
@@ -27,6 +27,7 @@ A especialização em Aprendizado de Máquina oferecida por Andrew Ng é uma jor
 <br/>
 
 <hr/>
+
 ### Projetos Realizados
 
 Durante esta especialização, foram realizados vários projetos práticos para aplicar os conceitos aprendidos. Alguns dos projetos incluem:
@@ -35,7 +36,8 @@ Durante esta especialização, foram realizados vários projetos práticos para 
 
 Neste projeto, um algoritmo de aprendizado não supervisionado foi desenvolvido para pousar o Lunar Lander usando Deep Q-Learning. Após muitas iterações de treinamento, o rover foi capaz de pousar corretamente na superfície, entre as bandeiras como indicadores.
 
-![Pousar o Lunar Lander](https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4)
+![Pousar o Lunar Lander]
+https://user-images.githubusercontent.com/77543865182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4
 
 #### Sistema de Recomendação de Filmes
 
