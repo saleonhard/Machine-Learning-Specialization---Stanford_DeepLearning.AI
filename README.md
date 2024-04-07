@@ -15,7 +15,7 @@ Este repositório contém os notebooks dos laboratórios avaliativos da [Especia
 
 ### Certificado da Especialização
 
-![Certifcado](/certificado especialização.png.png)
+![Certifcado](/certificado especialização.png)
 
 <br/>
 
