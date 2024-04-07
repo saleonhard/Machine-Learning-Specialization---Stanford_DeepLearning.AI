@@ -36,7 +36,7 @@ Durante esta especialização, foram realizados vários projetos práticos para 
 
 Neste projeto, um algoritmo de aprendizado não supervisionado foi desenvolvido para pousar o Lunar Lander usando Deep Q-Learning. Após muitas iterações de treinamento, o rover foi capaz de pousar corretamente na superfície, entre as bandeiras como indicadores.
 
-![Pousar o Lunar Lander](https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4)
+![Pousar o Lunar Lander] (./CURSO 3 - APRENDIZADO NÃO SUPERVISIONADO, RECOMENDAÇÕES, APRENDIZADO REF/Semana 3/videos/lunar_lander.mp4)
 
 #### Sistema de Recomendação de Filmes
 
@@ -46,6 +46,8 @@ Um sistema de recomendação de filmes foi implementado utilizando algoritmos de
 <br/>
 
 <hr/>
+
+Dentre outros.
 
 ### Certificação
 
